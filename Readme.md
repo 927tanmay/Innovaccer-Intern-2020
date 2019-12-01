@@ -25,7 +25,7 @@ Entry Management System Application - Innovaccer SummerGeeks 2020 SDE-Intern Ass
 3. Make an account on **MongoDB** ([https://www.mongodb.com/cloud/atlas](https://www.mongodb.com/cloud/atlas)) atlas for database.
 4. Change the content of **db_config.js** file present in **config folder**.
 
-```bash
+```markdown
    module.exports = {
         mongoURI:
           "mongodb+srv://USER:PASSWORD@test-cluster1-cwybb.mongodb.net/test?retryWrites=true",
