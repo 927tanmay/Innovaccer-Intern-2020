@@ -49,7 +49,7 @@ Entry Management System Application - Innovaccer SummerGeeks 2020 SDE-Intern Ass
 
 ## Folder Structure
 
-```bash
+```markdown
 ─── Innovaccer-Intern-2020
      |── api
      |   ├── send_mail.js
